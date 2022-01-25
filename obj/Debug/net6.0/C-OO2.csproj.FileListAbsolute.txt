@@ -1,0 +1,30 @@
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\bin\Debug\net6.0\C-OO2.exe
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\bin\Debug\net6.0\C-OO2.deps.json
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\bin\Debug\net6.0\C-OO2.runtimeconfig.json
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\bin\Debug\net6.0\C-OO2.dll
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\bin\Debug\net6.0\ref\C-OO2.dll
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\bin\Debug\net6.0\C-OO2.pdb
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\C-OO2.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\C-OO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\C-OO2.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\C-OO2.AssemblyInfo.cs
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\C-OO2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\C-OO2.dll
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\ref\C-OO2.dll
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\C-OO2.pdb
+C:\Users\gabri\Desktop\aulaAlura\C-OO2\obj\Debug\net6.0\C-OO2.genruntimeconfig.cache
+D:\c# projects\COO\C-OO2\bin\Debug\net6.0\C-OO2.exe
+D:\c# projects\COO\C-OO2\bin\Debug\net6.0\C-OO2.deps.json
+D:\c# projects\COO\C-OO2\bin\Debug\net6.0\C-OO2.runtimeconfig.json
+D:\c# projects\COO\C-OO2\bin\Debug\net6.0\C-OO2.dll
+D:\c# projects\COO\C-OO2\bin\Debug\net6.0\ref\C-OO2.dll
+D:\c# projects\COO\C-OO2\bin\Debug\net6.0\C-OO2.pdb
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\C-OO2.csproj.AssemblyReference.cache
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\C-OO2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\C-OO2.AssemblyInfoInputs.cache
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\C-OO2.AssemblyInfo.cs
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\C-OO2.csproj.CoreCompileInputs.cache
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\C-OO2.dll
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\ref\C-OO2.dll
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\C-OO2.pdb
+D:\c# projects\COO\C-OO2\obj\Debug\net6.0\C-OO2.genruntimeconfig.cache
